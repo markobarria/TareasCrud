@@ -1,0 +1,9 @@
+-ve el desafio metodos. main del "listado de tareas" el mejor ejemplo de: ingresar, modificar y eliminar 
+
+-la 1 era prueba sera un encargo (será un convertidor de monedas nacional) que cuando ingreses el dato en moneda en pesos llamar una api para que te lo convierta en la divisa de preferencia y te entrege de salida el resultado de esta conversion 
+junto con un grafico de valores en los 10 ultimos dias !!!!
+
+funcion flecha ( XXXX)=> { } de la linea 54 al 66 del js de "desafiometodos-main"
+de la linea 52 a la 73 es lo medular del js que vendria siendo el "mostrar"
+
+como buena practica es programar en ingles !!!
